@@ -1,0 +1,30 @@
+index.html:
+----------
+<!DOCTYPE html>
+<html> 
+    <head>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <h1>Welcome</h1>
+        <h2>By: Jinghan Lin</h2>
+    <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMotijm8-fqVe0Rk9eBpuDkWUWTvBxcF_OG2AXcz9CdA&s=10"/>
+    </body>
+</html>
+
+style.css:
+---------
+img{
+    width:450px;
+}
+body {
+    background-color: lightgrey;
+}
+h2{
+    font-size: 20px;
+}
+h1{
+    font-size: 40px;
+}
+
